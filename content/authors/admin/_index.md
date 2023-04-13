@@ -43,7 +43,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/ecomodeling
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
@@ -65,6 +65,6 @@ email: ''
 highlight_name: true
 ---
 
-I use process-explicit models to reconstruct the past, predict the future, and uncover the dynamics of ecological systems. The type of modeling I do is in many ways the opposite of the "artificial intelligence" of large language models. Instead of a black box whose processes are opaque, the outputs of process-explicit modeling are completely transparent. Understanding the processes is just as important as producing useful and accurate outputs.
+I use process-explicit models to reconstruct the past, predict the future, and uncover the dynamics of ecological systems. The type of modeling I do is in many ways the opposite of the "artificial intelligence" of large language models. Instead of a black box, the processes that produce the results are explicit and transparent. Understanding the processes is just as important as producing useful and accurate outputs.
 
 My current work at the Cary Institute is in disease ecology, investigating how viruses move between humans and mammalian hosts.
