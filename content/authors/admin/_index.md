@@ -1,39 +1,38 @@
 ---
 # Display name
-title: July Pilowsky
+title: Dr. July Pilowsky
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: he / they / she
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Adelaide
-  - name: University of Copenhagen
+  - name: Cary Institute for Ecosystem Studies
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computational ecologist using models to understand the natural world.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Process-explicit models
+  - Macroecology
+  - Environmental justice
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Biology
+      institution: University of Adelaide and University of Copenhagen
+      year: 2023
+    - course: MS in Biology
+      institution: Tufts University
+      year: 2017
+    - course: BA in Ecology, Evolution, and Environmental Biology
+      institution: Columbia University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,24 +43,20 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ecomodeling
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/ecomodeling
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=L06p2OEAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/japilo
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +65,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I use process-explicit models to reconstruct the past, predict the future, and uncover the dynamics of ecological systems. The type of modeling I do is in many ways the opposite of the "artificial intelligence" of large language models. Instead of a black box whose processes are opaque, the outputs of process-explicit modeling are completely transparent. Understanding the processes is just as important as producing useful and accurate outputs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My current work at the Cary Institute is in disease ecology, investigating how viruses move between humans and mammalian hosts.
