@@ -10,7 +10,7 @@ role: he / they / she
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cary Institute for Ecosystem Studies
+  - name: Cary Institute of Ecosystem Studies
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computational ecologist using models to understand the natural world.

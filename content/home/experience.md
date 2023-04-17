@@ -22,11 +22,12 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
   - title: Postdoctoral Associate
-    company: Cary Institute for Ecosystem Studies
+    company: Cary Institute of Ecosystem Studies
     company_url: 'https://www.caryinstitute.org'
-    company_logo: building-columns
+    company_logo: institute
     location: Millbrook, NY, USA
     date_start: '2023-04-01'
     date_end: ''
