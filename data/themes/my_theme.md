@@ -7,12 +7,12 @@ name = "my_theme"
 
   # Menu
   menu_primary = "#264A33"
-  menu_text = "#fff"
+  menu_text = "#FFFFFF"
   menu_text_active = "#BAA898"
   menu_title = "#BAA898"
 
   # Home sections
-  home_section_odd = "fff"
+  home_section_odd = "#FFFFFF"
   home_section_even = "#EEE0CB"
   
   link = "#839788"
