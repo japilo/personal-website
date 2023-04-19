@@ -4,7 +4,7 @@ date: 2014-01-01
 doi: '10.1007/s00040-014-0341-y'
 publishDate: 2023-04-18T02:11:23.371025Z
 authors: 
-	- N. Wilson-Rich
+	- "N. Wilson-Rich"
 	- admin
 	- B. Foo
 	- T. Tien
