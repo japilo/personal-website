@@ -19,6 +19,8 @@ bio: Computational ecologist using models to understand the natural world.
 interests:
   - Process-explicit models
   - Macroecology
+  - Conservation biology
+  - Disease ecology
   - Environmental justice
 
 # Education to show in About widget
