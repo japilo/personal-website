@@ -13,7 +13,7 @@ name = "my_theme"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#EEE0CB"
+  home_section_even = "#FBF8F4"
   
   link = "#839788"
   link_hover = "#264A33"
@@ -21,11 +21,11 @@ name = "my_theme"
 [dark]
   # Primary
   primary = "#FF6F59"
-  text = "#B2B09B"
+  text = "#9E8BA0"
   link_decoration = "underline"
   
-  menu_primary = "#B2B09B"
-  menu_text_active = "#FF6F59"
+  menu_primary = "#9E8BA0"
+  menu_text_active = "#FFE2DD"
   
   background = "#254441"
   
