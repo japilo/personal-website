@@ -37,7 +37,7 @@ links:
 - name: Models guide
   url: https://figshare.com/articles/figure/Dichotomous_key_of_process-explicit_models_of_biodiversity/19441655
 
-url_pdf: 'https://www.science.org/doi/reader/10.1126/sciadv.abj2271'
+url_pdf: 'uploads/sciadv.abj2271.pdf'
 url_code: ''
 url_dataset: 'https://www.science.org/doi/suppl/10.1126/sciadv.abj2271/suppl_file/sciadv.abj2271_data_s1.zip'
 url_poster: ''

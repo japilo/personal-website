@@ -8,7 +8,7 @@ abstract: "**Aim**: To determine the ecological processes and drivers of range c
 featured: false
 publication: "*Global Ecology and Biogeography*"
 tags: ["climate change", "mechanistic model", "range shift", "palaeoclimate", "metapopulation", "extinction dynamics", "synergistic threats", "distribution", "spatially explicit population model", "steppe bison"]
-url_pdf: ""
+url_pdf: "uploads/geb_steppe_bison.pdf"
 url_video: 'https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgeb.13601&file=geb13601-sup-0003-MovieS1.avi'
 url_dataset: "https://figshare.com/articles/dataset/Quality-controlled_carbon-14_dates_of_steppe_bison_Bison_priscus_fossils/17059592"
 url_code: "https://zenodo.org/record/7098687"

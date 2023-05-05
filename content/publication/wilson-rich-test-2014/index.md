@@ -15,6 +15,6 @@ abstract: "The haploid susceptibility hypothesis (HSH) was proposed as an explan
 tags: [Polistes, social insects, immunology]
 featured: false
 publication: "*Insectes sociaux*"
-url_pdf: ""
+url_pdf: "uploads/WilsonRichetal.pdf"
 ---
 

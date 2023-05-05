@@ -8,7 +8,7 @@ abstract: "Reconstructions of the spatiotemporal dynamics of human dispersal awa
 featured: false
 publication: "*Ecological Modelling*"
 tags: ["Human migration", "Macroecology", "Paleoecology", "Process-explicit model", "Sensitivity analysis"]
-url_pdf: ''
+url_pdf: 'uploads/EcolMod_humans.pdf'
 url_dataset: "https://figshare.com/articles/dataset/Process-explicit_simulations_of_human_migration_in_North_America_19_000_years_ago_to_present/20078630"
 doi: "10.1016/j.ecolmodel.2022.110115"
 ---

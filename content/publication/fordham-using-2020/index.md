@@ -8,7 +8,7 @@ abstract: "The late Quaternary paleorecord, within the past ∼130,000 years, ca
 tags: [Macroecology, paleoecology, climate change, palaeoclimate, process-explicit models]
 featured: false
 publication: "*Science*"
-url_pdf: ""
+url_pdf: 'uploads/science.abc5654.pdf'
 doi: "10.1126/science.abc5654"
 ---
 
