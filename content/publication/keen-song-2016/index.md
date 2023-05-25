@@ -32,7 +32,7 @@ tags: [female song, sexual selection, social selection, cooperative breeding, an
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: ''
+url_pdf: 'uploads/fevo-04-00046.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
