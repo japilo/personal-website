@@ -8,7 +8,7 @@ abstract: "Pathways to extinction start long before the death of the last indivi
 featured: false
 publication: "*Ecology Letters*"
 tags: ["climate change", "mechanistic model", "range dynamics", "metapopulation", "megafauna", "ecological process", "extinction dynamics", "Pleistocene-Holocene transition", "population model", "synergistic threats"]
-url_pdf: ""
+url_pdf: "uploads/Ecology Letters - 2021 - Fordham - Process‐explicit models reveal pathway to extinction for woolly mammoth using.pdf"
 doi: "10.1111/ele.13911"
 ---
 
