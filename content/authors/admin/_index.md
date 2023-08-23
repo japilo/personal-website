@@ -69,4 +69,4 @@ highlight_name: true
 
 I use process-explicit models to reconstruct the past, predict the future, and uncover the dynamics of ecological systems. The type of modeling I do is in many ways the opposite of the "artificial intelligence" of large language models. Instead of a black box, the processes that produce the results are explicit and transparent. Understanding the processes is just as important as producing useful and accurate outputs.
 
-My current work at the Cary Institute is in disease ecology, investigating how viruses move between humans and mammalian hosts.
+My current work at the Cary Institute is in disease ecology, investigating how disease transmission in wildlife changes in space and time. 
