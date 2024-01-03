@@ -13,4 +13,8 @@ url_video: 'https://figshare.com/articles/media/Movie_S1_from_Millennial_process
 url_dataset: https://figshare.com/articles/dataset/Process-explicit_simulations_of_European_bison_abundance_in_Eurasia_from_21_000_years_ago_to_1500_CE/21624369
 url_code: "https://zenodo.org/records/7297867"
 doi: "10.1098/rspb.2023.1095"
+image:
+  caption: 'European bison in Poland. Credit: Szymon Bartosz.'
+  focal_point: ''
+  preview_only: false
 ---
