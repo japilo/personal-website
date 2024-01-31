@@ -1,0 +1,11 @@
+.reveal h1 {
+  font-size: 56px; /* Adjust the size as needed */
+}
+
+.reveal h2 {
+  font-size: 48px; /* Adjust the size as needed */
+}
+
+.reveal .caption {
+  display: none;
+}
