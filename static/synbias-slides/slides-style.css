@@ -9,3 +9,12 @@
 .reveal .caption {
   display: none;
 }
+
+.reveal section {
+  font-size: 3vw;
+}
+
+.reveal img {
+  max-width: 100%;
+  height: auto;
+}
