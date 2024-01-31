@@ -31,8 +31,6 @@ July Pilowsky, Amy Sweeny, Greg Albery, Barbara Han
 
 ---
 
-## Richness estimates assume no parasite interaction
-
 ![Conceptual diagram of richness estimates becoming biased when
 parasites interact](/synbias-slides/synbias%20concept.png)
 
