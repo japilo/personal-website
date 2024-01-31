@@ -1,6 +1,18 @@
-# Biases in parasite richness estimates arising from coinfection
-dynamics
-2024-01-15
+---
+title: Biases in parasite richness estimates arising from coinfection dynamics
+summary: We present a likely source of bias in estimates of parasite richness - emergent properties arising from interactions between parasites. In the absence of good coinfection data, we provide a theoretical exploration.
+authors: [admin]
+tags: [disease ecology, coinfection, process-explicit modeling, theory]
+categories: []
+date: '2024-01-31T00:00:00Z'
+slides:
+  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+  theme: dracula
+  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
+  #   Light style: github. Dark style: dracula (default).
+  highlight_style: dracula
+css: synbias-slides/slides-style.css
+---
 
 ## Can coinfection dynamics bias population estimates of parasite richness?
 
@@ -28,35 +40,35 @@ accounting for coinfection dynamics?
 
 SI model with pairwise interactions and no demography
 
-<img src="model%20diagram%201.png"
+<img src="synbias-slides/model%20diagram%201.png"
 data-fig-alt="Conceptual diagram of two strains spreading in a bat population" />
 
 ## Approach: Parameter space explored
 
-<img src="parameters%20coinfection.png"
+<img src="synbias-slides/parameters%20coinfection.png"
 data-fig-alt="Illustrations of number of strains, competitive:facilitative ratio, interaction strength, and proportion of population sampled" />
 
 ## Approach: What a single simulation looks like
 
-![](synbias-slides.markdown_github_files/figure-markdown_github/single%20sim-1.png)
+![](synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/single%20sim-1.png)
 
 ## Does greater parasite richness “smooth out” effects of interaction on bias?
 
-![](synbias-slides.markdown_github_files/figure-markdown_github/strain%20number-1.png)
+![](synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/strain%20number-1.png)
 
 ## Does the strength of interactions matter?
 
-![](synbias-slides.markdown_github_files/figure-markdown_github/interaction%20strength-1.png)
+![](synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/interaction%20strength-1.png)
 
 ## What about the proportion of the population sampled?
 
 You’d think this would be the most important factor. However…
 
-![](synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop-1.png)
+![](synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop-1.png)
 
 ## Interactions between strains are more important than % sampled
 
-![](synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop%20cf%20ratio-1.png)
+![](synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop%20cf%20ratio-1.png)
 
 ## Up Next
 
