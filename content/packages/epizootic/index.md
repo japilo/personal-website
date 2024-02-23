@@ -1,7 +1,10 @@
 ---
 title: epizootic
 summary: Spatially Explicit Population Models of Disease Transmission in Wildlife
-tags: disease ecology, process-explicit models, poemsverse
+tags: 
+- disease ecology
+- process-explicit models
+- poemsverse
 date: '2020-08-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

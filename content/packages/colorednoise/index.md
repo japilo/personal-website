@@ -1,7 +1,8 @@
 ---
 title: colorednoise
 summary: The colorednoise package simulates colored noise as well as structured and unstructured population models with colored noise.
-tags: process-explicit models
+tags: 
+- process-explicit models
 date: '2020-08-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
