@@ -1,7 +1,7 @@
 ---
 title: poems
 summary: poems is a framework for simulating spatially-explicit, process-explicit populations with pattern-oriented modeling for validation.
-tags: 
+tags: process-explicit models, poemsverse
 date: '2023-09-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
