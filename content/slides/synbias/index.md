@@ -8,7 +8,7 @@ date: '2024-01-31T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-# css: /synbias-slides/slides-style.css
+css: /synbias-slides/slides-style.css
 ---
 
 ## Biases in parasite richness estimates arising from coinfection dynamics
