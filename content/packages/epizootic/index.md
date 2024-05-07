@@ -20,7 +20,7 @@ links:
     url: https://github.com/viralemergence/epizootic
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: /slides/epizootic
 url_video: ''
 
 # Slides (optional).
