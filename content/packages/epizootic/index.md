@@ -20,7 +20,7 @@ links:
     url: https://github.com/viralemergence/epizootic
 url_code: ''
 url_pdf: ''
-url_slides: /slides/epizootic
+url_slides: ''
 url_video: ''
 
 # Slides (optional).
@@ -28,8 +28,10 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "epizootic"
 ---
 
 This extension of the pattern-oriented modeling framework of the poems package
 provides a collection of modules and functions customized for modeling disease transmission on a population scale in a spatiotemporally explicit manner. This includes seasonal time steps, dispersal functions that track disease state of dispersers, results objects that store disease states, and a population simulator that includes disease dynamics.
+
+![An animation of a disease spreading through North America from 1994 to 2016](sample_9_prevalence.gif "A visualization of an epizootic simulation")
