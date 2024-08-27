@@ -21,12 +21,6 @@ marketing:
     org_name: ''
     description: 'Academic website of July Pilowsky.'
     twitter: 'ecomodeling'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
