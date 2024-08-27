@@ -1,0 +1,13 @@
+.reveal .slides section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.reveal .slides section img {
+  width: 100%;       // Ensures that the image is responsive
+  height: auto;      // Keeps image aspect ratio intact
+  display: block;    // Removes bottom space/gap
+}
