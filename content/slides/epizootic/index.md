@@ -62,6 +62,16 @@ July Pilowsky
 
 ---
 
+## Choosing a study system
+
+I needed to choose a study system on which to test out epizootic based on these criteria:
+
+{{% fragment %}} -   Verena-scale problem (continental) {{% /fragment %}}
+{{% fragment %}} -   Enough data to parameterize and independently validate the model {{% /fragment %}}
+{{% fragment %}} -   Enough theory about the system that we know which processes to include {{% /fragment %}}
+
+---
+
 ## Case study: house finch conjunctivitis
 
 ![Image credit: Kerry Hargrove](/epizootic-slides/conjunctivitis.jpeg)
@@ -76,33 +86,70 @@ July Pilowsky
 
 ## epizootic in practice
 
-Summer 1940             |  Winter 1993
-:-------------------------:|:-------------------------:
-![](/epizootic-slides/initial_abundance.png)  |  ![](/epizootic-slides/winter1993.png)
+Processes included in the model:
+
+{{% fragment %}} -   Transmission dynamics (discrete time SIRI models, parameters differing by season and life cycle stage) {{% /fragment %}}
+{{% fragment %}} -   Density-dependent dispersal, parameters differing by life cycle stage {{% /fragment %}}
+{{% fragment %}} -   Density-dependent fecundity and mortality, with mortality differing by infection status {{% /fragment %}}
 
 ---
 
-## Processes and drivers considered for house finch conjunctivitis
+## epizootic in practice
 
-{{% fragment %}} -   Land use change (urbanization) {{% /fragment %}}
-{{% fragment %}} -   Climate change {{% /fragment %}}
-{{% fragment %}} -   Density-dependent dispersal {{% /fragment %}}
-{{% fragment %}} -   Local extirpation by the disease {{% /fragment %}}
+Drivers included in the model:
 
----
-
-## What questions could we answer using epizootic?
-
-{{% fragment %}} -   Does urbanization facilitate the spread of wildlife disease? {{% /fragment %}}
-{{% fragment %}} -   Does topography/elevation slow the spread of wildlife disease? {{% /fragment %}}
-{{% fragment %}} -   Does hunting change the dynamics of wildlife disease? {{% /fragment %}}
-{{% fragment %}} -   Suggest some I haven't thought of yet! {{% /fragment %}}
+{{% fragment %}} -   Environmental change (climate and land use) {{% /fragment %}}
+{{% fragment %}} -   Invasion dynamics (introduction of house finches to NY) {{% /fragment %}}
+{{% fragment %}} -   Initial spillover event from poultry in 1994 {{% /fragment %}}
 
 ---
 
-## Roadmap for epizootic
+## Parameterization for epizootic
 
-{{% fragment %}} -   Complete the house finch conjunctivitis case study {{% /fragment %}}
-{{% fragment %}} -   Create a tutorial so it is easier for other people to use {{% /fragment %}}
-{{% fragment %}} -   Add functionality for dispersal that differs by season and for the inclusion of hunting (?) {{% /fragment %}}
-{{% fragment %}} -   Case study in vector-borne system (?) {{% /fragment %}}
+{{% fragment %}} -   House finch demography {{% /fragment %}}
+{{% fragment %}} -   House finch banding survey data on dispersal {{% /fragment %}}
+{{% fragment %}} -   Transmission, recovery, and partial immunity for the disease {{% /fragment %}}
+{{% fragment %}} -   Spatially explicit breeding season length (inferred from eastern bluebird data) {{% /fragment %}}
+{{% fragment %}} -   Historical climate data {{% /fragment %}}
+{{% fragment %}} -   Historical land use data {{% /fragment %}}
+
+---
+
+## Validation for epizootic
+
+{{% fragment %}} -   Presence of house finches in Washington DC in 1994 {{% /fragment %}}
+{{% fragment %}} -   Date of arrival of house finch conjunctivitis in Northeast regions {{% /fragment %}}
+{{% fragment %}} -   Spatiotemporal point prevalence of conjunctivitis {{% /fragment %}}
+{{% fragment %}} -   Rate of change in house finch abundance {{% /fragment %}}
+{{% fragment %}} -   Date of arrival of house finches east of the Rockies {{% /fragment %}}
+{{% fragment %}} -   Presences and true absences of house finches in North America {{% /fragment %}}
+
+---
+
+## Validation for epizootic
+
+![](/epizootic-slides/posteriors.png)
+
+---
+
+## epizootic and you
+
+How can epizootic integrate with the research that you do at Verena?
+
+---
+
+## epizootic and you
+
+![](/epizootic-slides/epizootic_structure.png)
+
+---
+
+## epizootic and you
+
+![](/epizootic-slides/generators.png)
+
+---
+
+## epizootic and you
+
+I believe that process-explicit modeling is an excellent and rigorous way to model ecological processes at multiple scales. How can it help **you**? Let's discuss!
