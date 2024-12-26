@@ -44,9 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/ecomodeling
+    link: https://bsky.app/profile/pilowsky.me
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=L06p2OEAAAAJ
