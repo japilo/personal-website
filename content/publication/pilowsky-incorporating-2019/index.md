@@ -8,7 +8,7 @@ abstract: "Population dynamics are typically temporally autocorrelated: populati
 featured: false
 publication: "*Oikos*"
 tags: ["colored noise", "environmental reddening", "environmental stochasticity", "matrix population models", "temporal autocorrelation"]
-url_pdf: "uploads/Oikos - 2019 - Pilowsky - Incorporating the temporal autocorrelation of demographic rates into structured population models.pdf"
+url_pdf: ""
 doi: "10.1111/oik.06438"
 ---
 

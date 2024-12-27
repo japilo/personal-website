@@ -8,6 +8,7 @@ date: '2024-01-31T00:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
+  highlight_style: dracula
 css: /synbias-slides/slides-style.css
 ---
 
@@ -18,16 +19,16 @@ July Pilowsky, Amy Sweeny, Greg Albery, Barbara Han
 
 ## Can coinfection dynamics bias population estimates of parasite richness?
 
-{{% fragment %}} -   The short answer: yes. {{% /fragment %}}
+-   The short answer: yes.
 
 ---
 
 ## Are interactions among parasites, viruses, and bacteria common?
 
-{{% fragment %}} -   The short answer: we don’t know {{% /fragment %}}
-{{% fragment %}} -   Interactions can be inferred with experimental infections, parasite removal, and longitudinal studies of infection {{% /fragment %}}
-{{% fragment %}} -   These haven’t been done very often {{% /fragment %}}
-{{% fragment %}} -   Amy Sweeny will change this, we hope {{% /fragment %}}
+-   The short answer: we don’t know
+-   Interactions can be inferred with experimental infections, parasite removal, and longitudinal studies of infection
+-   These haven’t been done very often
+-   Amy Sweeny will change this, we hope
 
 ---
 
@@ -79,7 +80,7 @@ data-fig-alt="Illustrations of number of strains, competitive:facilitative ratio
 
 ## proportion of the population sampled
 
-{{% fragment %}} ![](/synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop-1.png) {{% /fragment %}}
+![](/synbias-slides/synbias-slides.markdown_github_files/figure-markdown_github/sample%20prop-1.png)
 
 ---
 
@@ -91,6 +92,6 @@ data-fig-alt="Illustrations of number of strains, competitive:facilitative ratio
 
 ## Up Next
 
-{{% fragment %}} -   More simulations, this time with a lower baseline transmission rate {{% /fragment %}}
+-   More simulations, this time with a lower baseline transmission rate
 
-{{% fragment %}} -   A search for any empirical data about C:F ratio and interaction strength in microbial communities {{% /fragment %}}
+-   A search for any empirical data about C:F ratio and interaction strength in microbial communities

@@ -4,7 +4,7 @@ summary: poems is a framework for simulating spatially-explicit, process-explici
 tags: 
     - process-explicit models
     - poemsverse
-date: '2023-09-28T00:00:00Z'
+date: '2021-09-28T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/GlobalEcologyLab/poems'

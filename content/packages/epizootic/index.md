@@ -5,7 +5,7 @@ tags:
 - disease ecology
 - process-explicit models
 - poemsverse
-date: '2020-08-05T00:00:00Z'
+date: '2024-08-05T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/viralemergence/epizootic'

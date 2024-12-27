@@ -1,43 +1,47 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-i_am_a_sponsor: true
 appearance:
-  theme_day: my_theme
-  theme_night: my_theme
-  font: rose
-  font_size: L
+  mode: system
+  color: emerald
+  font: serif
+i_am_a_sponsor: true
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'Dr. July Pilowsky'
     description: 'Academic website of July Pilowsky.'
-    twitter: 'ecomodeling'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    blox: "navbar"
     show_search: true
+    fixed_to_top: true
+    show_theme_chooser: true
+    show_logo: true
     highlight_active_link: true
 
 # Site footer
-
 footer:
   copyright:
-    notice: '© {year} July Pilowsky. This work is licensed under {license}'
+    notice: '© {year} Dr. July Pilowsky. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -45,14 +49,11 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2 Jan, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
 
 # Site features
-
 features:
   syntax_highlighter:
     enable: true
@@ -67,39 +68,3 @@ features:
     url: 'https://github.com/japilo/personal-website'
     content_dir: content
     branch: master
-  avatar:
-    gravatar: false
-    shape: square
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
