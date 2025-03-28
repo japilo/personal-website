@@ -5,6 +5,7 @@
 
 title: Dr. July Pilowsky # Website name
 baseURL: 'https://pilowsky.me/' # Website URL
+theme: ["github.com/joshed-io/reveal-hugo"]
 
 ############################
 ## LANGUAGE
