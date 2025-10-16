@@ -4,6 +4,7 @@ summary: We present a likely source of bias in estimates of parasite richness - 
 authors: [admin]
 tags: [disease ecology, coinfection, process-explicit modeling, theory]
 categories: []
+layout: "reveal"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -47,15 +48,13 @@ accounting for coinfection dynamics?
 
 SI model with pairwise interactions and no demography
 
-<img src="/synbias-slides/model%20diagram%201.png"
-data-fig-alt="Conceptual diagram of two strains spreading in a bat population" />
+![](/synbias-slides/model%20diagram%201.png)
 
 ---
 
 ## Approach: Parameter space explored
 
-<img src="/synbias-slides/parameters%20coinfection.png"
-data-fig-alt="Illustrations of number of strains, competitive:facilitative ratio, interaction strength, and proportion of population sampled" />
+![](/synbias-slides/parameters%20coinfection.png)
 
 ---
 

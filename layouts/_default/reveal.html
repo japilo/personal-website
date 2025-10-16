@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }}</title>
+
+    <!-- Reveal.js core styles -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.4.0/dist/reveal.css">
+    <!-- Reveal.js theme (uses slides.theme front matter if present) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.4.0/dist/theme/{{ default "black" .Params.slides.theme }}.css">
+
+    <!-- Optional highlight.js theme for code highlighting inside Reveal -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.8.0/styles/dracula.min.css">
+
+    {{ with .Params.css }}
+    <!-- Page-specific slide CSS -->
+    <link rel="stylesheet" href="{{ . }}">
+    {{ end }}
+
+    <style>
+      /* Make Reveal take full viewport */
+      html, body { height: 100%; margin: 0; }
+      .reveal { height: 100vh; }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <!-- Use Reveal's client-side Markdown plugin: place raw markdown inside the textarea -->
+        <section data-markdown>
+          <textarea data-template>{{ .RawContent | htmlEscape }}</textarea>
+        </section>
+      </div>
+    </div>
+
+    <!-- Reveal.js and plugins -->
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.4.0/dist/reveal.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.4.0/plugin/markdown/markdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.4.0/plugin/highlight/highlight.min.js"></script>
+
+    <script>
+      // Initialize Reveal with markdown and highlight plugins
+      Reveal.initialize({
+        hash: true,
+        plugins: [ RevealMarkdown, RevealHighlight ],
+        slideNumber: true,
+        center: true
+      });
+    </script>
+  </body>
+</html>
