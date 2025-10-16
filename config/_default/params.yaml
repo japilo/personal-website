@@ -14,9 +14,9 @@ i_am_a_sponsor: true
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Academic'
     org_name: 'Dr. July Pilowsky'
-    description: 'Academic website of July Pilowsky.'
+    description: 'Dr. July Pilowsky: ecologist and modeller. Publications and projects.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -67,4 +67,4 @@ features:
   repository:
     url: 'https://github.com/japilo/personal-website'
     content_dir: content
-    branch: master
+    branch: main
